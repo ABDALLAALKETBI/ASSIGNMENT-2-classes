@@ -8,7 +8,7 @@ This repository contains the Python code for a software application designed to 
 - Clone this repository to your local machine using the following command:
 
 
-git clone <repository_url>
+git clone <https://github.com/ABDALLAALKETBI/ASSIGNMENT-2-classes/tree/main>
 
 ## Usage
 1. Navigate to the directory containing the Python files.
